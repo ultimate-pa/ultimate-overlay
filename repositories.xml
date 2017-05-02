@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>ultimate</name>
+    <description>Ultimate Program Analysis Tools for Gentoo</description>
+    <homepage>https://ultimate.informatik.uni-freiburg.de</homepage>
+    <owner>
+      <email>greitsch@informatik.uni-freiburg.de</email>
+      <name>Marius Greitschus</name>
+    </owner>
+    <source type="git">https://github.com/ultimate-pa/ultimate-overlay</source>
+    <feed>https://github.com/ultimate-pa/news/news.atom</feed>
+  </repo>
+</repositories>
