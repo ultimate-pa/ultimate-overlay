@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repositories encoding="unicode" version="1.1">
-  <repo priority="50" quality="experimental">
+  <repo quality="experimental" status="unofficial">
     <name>ultimate</name>
     <description>Ultimate Program Analysis Tools for Gentoo</description>
     <homepage>https://ultimate.informatik.uni-freiburg.de</homepage>
